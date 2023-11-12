@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![dice_app](https://github.com/juhingeorge/Dice_App/assets/117583068/f82b34a9-de8d-4150-a0e4-29318ee2778b)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
